@@ -1,0 +1,10 @@
+site_name: Local Services Ads Setup Checklist for Law Firms
+site_description: A step-by-step checklist for setting up and managing Google Local Services Ads for a law firm, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-local-services-ads-checklist.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - LSA checklist: index.md
+markdown_extensions:
+  - tables
